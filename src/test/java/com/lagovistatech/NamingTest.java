@@ -16,13 +16,11 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 	
 */
-package libraries;
+package com.lagovistatech;
 
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
-import org.junit.Test;
-
-import com.lagovistatech.Naming;
+import org.junit.jupiter.api.Test;
 
 public class NamingTest {
 	@Test
